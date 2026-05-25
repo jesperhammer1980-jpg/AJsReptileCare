@@ -1,6 +1,6 @@
 
-const menuButton=document.querySelector('[data-menu]');
-if(menuButton){menuButton.addEventListener('click',()=>document.body.classList.toggle('nav-open'));}
-const searchInput=document.querySelector('[data-search]');
-if(searchInput){searchInput.addEventListener('input',e=>{const q=e.target.value.toLowerCase();document.querySelectorAll('.species-card,.habitat-card').forEach(card=>{card.style.display=card.innerText.toLowerCase().includes(q)?'':'none';});});}
-document.querySelectorAll('[data-filter]').forEach(btn=>btn.addEventListener('click',()=>{const term=btn.dataset.filter.toLowerCase();document.querySelectorAll('.species-card').forEach(card=>{card.style.display=(card.dataset.tags||'').toLowerCase().includes(term)?'':'none';});}));
+document.addEventListener('DOMContentLoaded',()=>{
+ const input=document.querySelector('[data-search]');
+ if(input){input.addEventListener('input',()=>{const q=input.value.trim().toLowerCase();document.querySelectorAll('.species-card').forEach(c=>{c.style.display=c.innerText.toLowerCase().includes(q)?'':'none'});});}
+ document.querySelectorAll('[data-filter]').forEach(btn=>btn.addEventListener('click',()=>{const q=btn.dataset.filter.toLowerCase();document.querySelectorAll('.species-card').forEach(c=>{c.style.display=(c.dataset.tags||c.innerText).toLowerCase().includes(q)?'':'none'});}));
+});
