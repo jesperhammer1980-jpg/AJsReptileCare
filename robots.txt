@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://ajs-reptile-care.vercel.app/sitemap.xml
