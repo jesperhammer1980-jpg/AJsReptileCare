@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ReptilGuiden – reptilguides på dansk og engelsk</title>
+  <meta name="description" content="Find reptiler efter habitat og lær om foder, bur, lys, varme og fugt med tosprogede plejeguides.">
+  <link rel="canonical" href="https://reptilguiden.dk/">
+  <link rel="alternate" hreflang="da" href="https://reptilguiden.dk/">
+  <link rel="alternate" hreflang="en" href="https://reptilguiden.dk/en/">
+  <link rel="alternate" hreflang="x-default" href="https://reptilguiden.dk/en/">
+  <meta property="og:title" content="ReptilGuiden – reptilguides på dansk og engelsk">
+  <meta property="og:description" content="Find reptiler efter habitat og lær om foder, bur, lys, varme og fugt med tosprogede plejeguides.">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#0b0f0c">
+  <link rel="stylesheet" href="style.css">
+  
+</head>
+<body data-lang="da">
+<a class="skip-link" href="#content">Skip to content</a>
+<header class="site-header">
+  <a class="brand" href="index.html" aria-label="ReptilGuiden home"><span class="brand-mark">🦎</span><span>Reptil<span>Guiden</span></span><small>Viden, pleje & inspiration</small></a>
+  <nav class="main-nav" aria-label="Main navigation"><a href="index.html">Guides</a><a href="habitats/desert.html">Habitater</a><a href="species/leopard-gecko.html">Reptiler</a><a href="index.html#products">Udstyr</a><a href="habitats/beginner.html">Begyndere</a></nav>
+  <div class="header-tools"><label class="search"><input data-search placeholder="Søg efter art, habitat eller emne" aria-label="Søg efter art, habitat eller emne"><span>⌕</span></label><button class="icon-btn" aria-label="Gemte guides">♡</button><button class="menu-btn" data-menu aria-label="Menu">☰</button></div>
+</header>
+<main id="content">
+<section class="layout-grid hero-habitat">
+  <aside class="filter-panel">
+    <h2>Find reptil efter habitat</h2>
+    <a class="filter-item" href="habitats/desert.html"><b>🌵 Ørken og tørre habitater</b><small>Tørre, varme arter med tydelig solplads og lav fugt.</small><span>›</span></a><a class="filter-item" href="habitats/tropical.html"><b>🌿 Tropiske habitater</b><small>Fugtige, plantede miljøer med ventilation, sprayrutine og klatreflader.</small><span>›</span></a><a class="filter-item" href="habitats/forest.html"><b>🍂 Skov og middelhav</b><small>Arter med plads, UVB, jordnære skjul og naturlig fouragering.</small><span>›</span></a><a class="filter-item" href="habitats/snakes.html"><b>🐍 Slanger</b><small>Flugtsikre terrarier, skjul, varmegradient og korrekt byttedyrsstørrelse.</small><span>›</span></a><a class="filter-item" href="habitats/beginner.html"><b>⭐ Begyndervenlige arter</b><small>Arter der typisk er robuste, lette at fodre og veldokumenterede.</small><span>›</span></a>
+    <div class="mini-card"><b>Hurtige filtre</b><button data-filter="Beginner">Begynder</button><button data-filter="Insectivore">Insektæder</button><button data-filter="Nocturnal">Nataktiv</button></div>
+  </aside>
+  <section class="hero-main">
+    <div class="top-ad"><span>ANNONCE</span><strong>Skab det perfekte miljø</strong><p>Terrarier, lamper, varme, skjul og måleudstyr.</p></div>
+    <div class="hero-copy"><span class="eyebrow">Habitat First</span><h1>Find reptil efter habitat</h1><p>Reptiler har meget forskellige behov. Start med habitatet, og gå derefter videre til artens konkrete krav til foder, bur, lys, varme og fugt.</p><div class="hero-actions"><a class="btn primary" href="habitats/desert.html">Udforsk habitater</a><a class="btn ghost" href="species/leopard-gecko.html">Se eksempelguide</a></div></div>
+    <div class="habitat-cards">
+      <article class="habitat-card orange"><div class="habitat-image"><span>🌵</span></div><span class="tag">Ørken</span><h2>Ørken og tørre habitater</h2><p>Tørre, varme arter med tydelig solplads og lav fugt.</p><div class="care-icons"><span>🍽 Foder</span><span>🏠 Bur</span><span>💡 Lys</span><span>🔥 Varme</span><span>💧 Fugt</span></div><small>Populære arter: Leopardgekko, Skægagame</small><a href="habitats/desert.html">Se guide →</a></article><article class="habitat-card green"><div class="habitat-image"><span>🌿</span></div><span class="tag">Tropiske</span><h2>Tropiske habitater</h2><p>Fugtige, plantede miljøer med ventilation, sprayrutine og klatreflader.</p><div class="care-icons"><span>🍽 Foder</span><span>🏠 Bur</span><span>💡 Lys</span><span>🔥 Varme</span><span>💧 Fugt</span></div><small>Populære arter: Krongekko</small><a href="habitats/tropical.html">Se guide →</a></article><article class="habitat-card lime"><div class="habitat-image"><span>🍂</span></div><span class="tag">Skov</span><h2>Skov og middelhav</h2><p>Arter med plads, UVB, jordnære skjul og naturlig fouragering.</p><div class="care-icons"><span>🍽 Foder</span><span>🏠 Bur</span><span>💡 Lys</span><span>🔥 Varme</span><span>💧 Fugt</span></div><small>Populære arter: Græsk landskildpadde</small><a href="habitats/forest.html">Se guide →</a></article>
+    </div>
+    <section class="trust-strip"><div>📖 <b>Dybdegående guides</b><small>Praktisk pleje opdelt i faste sektioner.</small></div><div>🛡️ <b>Pålidelig viden</b><small>Kilder kontrolleres før indhold bruges.</small></div><div>🌱 <b>Dyrevelfærd i fokus</b><small>Udstyr vælges ud fra artens behov.</small></div></section>
+    <section class="product-strip" id="products"><div class="section-head"><h2>Anbefalet udstyr <span>Reklame / affiliate-klar</span></h2><p>Produkterne er struktureret som reklamefelter og kan senere kobles til affiliate-links.</p></div><div class="product-row"><article class="product"><div class="product-img">🏠</div><b>Glasterrarium 90×45×45</b><span>799 kr.</span><button>Se produkt</button></article><article class="product"><div class="product-img">💡</div><b>T5 UVB-armatur</b><span>349 kr.</span><button>Se produkt</button></article><article class="product"><div class="product-img">🔥</div><b>Basking spot 75W</b><span>129 kr.</span><button>Se produkt</button></article><article class="product"><div class="product-img">🌡️</div><b>Digital termohygrometer</b><span>149 kr.</span><button>Se produkt</button></article><a class="more-products" href="#">🛒<b>Se flere produkter</b>→</a></div><small>Affiliate-note: Køb via links kan støtte siden uden ekstra pris for brugeren.</small></section>
+  </section>
+</section></main>
+<footer class="site-footer">
+  <div><strong>ReptilGuiden</strong><p>Ansvarlige plejevejledninger, habitatguides og udstyrsoverblik.</p></div>
+  <div class="footer-links"><a href="index.html">Forside</a><a href="habitats/desert.html">Habitater</a><a href="species/leopard-gecko.html">Arter</a></div>
+</footer>
+<script src="script.js" defer></script>
+</body>
+</html>
