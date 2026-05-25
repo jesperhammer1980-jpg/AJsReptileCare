@@ -1,10 +1,3 @@
-# ReptilGuiden
+# AJ’s Reptile Care
 
-Tosproget Habitat First reptilguide klar til GitHub/Vercel.
-
-## Struktur
-- Dansk forside: `index.html`
-- Engelsk forside: `en/index.html`
-- Habitat-sider: `habitats/` og `en/habitats/`
-- Artsguides: `species/` og `en/species/`
-- Fælles CSS/JS: `style.css`, `script.js`
+Bilingual habitat-first reptile care guide. Product recommendation cards have been removed until local, relevant affiliate/product data can be implemented correctly.
