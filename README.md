@@ -1,13 +1,16 @@
-# AJ’s Reptile Care
+# AJ's Reptile Care
 
-Static bilingual reptile guide website for GitHub + Vercel.
+Version: v9
+Build: 2026-05-25
+Status: Navigation, search, species index and QA cleanup
 
-## v8
-- Premium Habitat First homepage redesign.
-- 37 species guides in Danish and English.
-- Added enclosure minimums, recommended enclosure sizes, day/night heat, basking/cool zones, photoperiod, UVB, humidity, feeding, calcium/vitamins, brumation and breeding guidance.
-- Replaced old checklist with care/cleaning/feeding/supplement routine.
-- Kept ad slots neutral until local product/affiliate recommendations can be implemented correctly.
-- Added terrarium inspiration and image credits.
+Static bilingual reptile care guide for GitHub + Vercel.
 
-Upload the contents of this ZIP directly to the repository root.
+## v9 QA focus
+- Visible version page and footer version stamp
+- Species overview grouped by geckos, agamids, pythons, boas, colubrids, tortoises and more
+- Header navigation fixed so Species/Reptiles opens the overview instead of Leopard Gecko
+- Working search page and global header search
+- Robust image fallback and species card layout fixes
+- Neutral snake-feeding section: thawed/frozen vs fresh-killed vs live prey pros/cons
+- Internal meta copy removed from care-plan sections
