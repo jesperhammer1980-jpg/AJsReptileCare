@@ -7,11 +7,15 @@ document.addEventListener('DOMContentLoaded', () => {
     img.addEventListener('error', () => {
       const box = img.closest('figure') || img.parentElement;
       if (box) {
-        box.classList.add('image-fallback');
-        const label = img.alt || (lang === 'en' ? 'Image unavailable' : 'Billede ikke tilgængeligt');
-        box.setAttribute('data-fallback', label);
+        box.classList.add('image-missing');
+        const notice = document.createElement('div');
+        notice.className = 'image-missing-note';
+        notice.textContent = lang === 'en'
+          ? 'Image source unavailable — this image has been removed from the layout.'
+          : 'Billedkilde utilgængelig — billedet er fjernet fra layoutet.';
+        box.appendChild(notice);
       }
-      img.style.display = 'none';
+      img.remove();
     }, { once: true });
   });
 
