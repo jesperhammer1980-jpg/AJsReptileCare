@@ -5,9 +5,9 @@ window.AJS_SEARCH_INDEX = [
     "title": "Ackie varan",
     "latin": "Varanus acanthurus",
     "group": "Skinker og store øgler",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -55,9 +55,9 @@ window.AJS_SEARCH_INDEX = [
     "title": "Afrikansk fedthalekgekko",
     "latin": "Hemitheconyx caudicinctus",
     "group": "Gekkoer",
-    "habitat": "Skov, middelhav og jordlevende arter",
-    "difficulty": "Begynder+",
-    "activity": "Nataktiv",
+    "habitat": "Forest, Mediterranean and terrestrial species",
+    "difficulty": "Beginner+",
+    "activity": "Nocturnal",
     "keywords": [
       "art",
       "reptil",
@@ -102,12 +102,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Argentinsk sort-hvid tegu",
+    "title": "Argentine black-and-white tegu",
     "latin": "Salvator merianae",
     "group": "Skinker og store øgler",
-    "habitat": "Skov, middelhav og jordlevende arter",
-    "difficulty": "Meget erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Forest, Mediterranean and terrestrial species",
+    "difficulty": "Very experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -122,7 +122,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/argentine-tegu.html",
-    "description": "Praktisk guide til Argentinsk sort-hvid tegu: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Argentine black-and-white tegu: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -152,11 +152,11 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Kongepython",
+    "title": "Ball python",
     "latin": "Python regius",
     "group": "Pythoner",
     "habitat": "Slanger",
-    "difficulty": "Begynder+",
+    "difficulty": "Beginner+",
     "activity": "Nat-/skumringsaktiv",
     "keywords": [
       "art",
@@ -172,7 +172,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/ball-python.html",
-    "description": "Praktisk guide til Kongepython: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Ball python: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -202,12 +202,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Skægagame",
+    "title": "Bearded dragon",
     "latin": "Pogona vitticeps",
     "group": "Agamer",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Begynder+",
-    "activity": "Dagaktiv",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Beginner+",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -222,7 +222,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/bearded-dragon.html",
-    "description": "Praktisk guide til Skægagame: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Bearded dragon: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -252,12 +252,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Blåtunget skink",
+    "title": "Blue-tongued skink",
     "latin": "Tiliqua scincoides / Tiliqua spp.",
     "group": "Skinker og store øgler",
-    "habitat": "Skov, middelhav og jordlevende arter",
-    "difficulty": "Begynder+",
-    "activity": "Dagaktiv",
+    "habitat": "Forest, Mediterranean and terrestrial species",
+    "difficulty": "Beginner+",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -272,7 +272,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/blue-tongued-skink.html",
-    "description": "Praktisk guide til Blåtunget skink: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Blue-tongued skink: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -306,7 +306,7 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Boa constrictor / Boa imperator",
     "group": "Boaer",
     "habitat": "Slanger",
-    "difficulty": "Erfaren",
+    "difficulty": "Experienced",
     "activity": "Nat-/skumringsaktiv",
     "keywords": [
       "art",
@@ -356,8 +356,8 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Lampropeltis californiae",
     "group": "Snoge",
     "habitat": "Slanger",
-    "difficulty": "Begynder+",
-    "activity": "Skumringsaktiv",
+    "difficulty": "Beginner+",
+    "activity": "Crepuscular",
     "keywords": [
       "art",
       "reptil",
@@ -406,7 +406,7 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Morelia spilota",
     "group": "Pythoner",
     "habitat": "Slanger",
-    "difficulty": "Erfaren",
+    "difficulty": "Experienced",
     "activity": "Skumrings-/nataktiv",
     "keywords": [
       "art",
@@ -456,8 +456,8 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Antaresia childreni",
     "group": "Pythoner",
     "habitat": "Slanger",
-    "difficulty": "Begynder+",
-    "activity": "Nataktiv",
+    "difficulty": "Beginner+",
+    "activity": "Nocturnal",
     "keywords": [
       "art",
       "reptil",
@@ -505,9 +505,9 @@ window.AJS_SEARCH_INDEX = [
     "title": "Kinesisk hulegekko",
     "latin": "Goniurosaurus hainanensis",
     "group": "Gekkoer",
-    "habitat": "Skov, middelhav og jordlevende arter",
-    "difficulty": "Erfaren",
-    "activity": "Nataktiv",
+    "habitat": "Forest, Mediterranean and terrestrial species",
+    "difficulty": "Experienced",
+    "activity": "Nocturnal",
     "keywords": [
       "art",
       "reptil",
@@ -552,11 +552,11 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Kinesisk trekølskildpadde",
+    "title": "Reeves’ turtle",
     "latin": "Mauremys reevesii",
-    "group": "Vandskildpadder",
+    "group": "Waterskildpadder",
     "habitat": "Akvatisk / semi-akvatisk",
-    "difficulty": "Begynder+",
+    "difficulty": "Beginner+",
     "activity": "Akvatisk/dagaktiv",
     "keywords": [
       "art",
@@ -572,7 +572,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/chinese-reeves-turtle.html",
-    "description": "Praktisk guide til Kinesisk trekølskildpadde: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Reeves’ turtle: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -602,12 +602,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Kornsnog",
+    "title": "Corn snake",
     "latin": "Pantherophis guttatus",
     "group": "Snoge",
     "habitat": "Slanger",
-    "difficulty": "Begynder",
-    "activity": "Skumringsaktiv",
+    "difficulty": "Beginner",
+    "activity": "Crepuscular",
     "keywords": [
       "art",
       "reptil",
@@ -622,7 +622,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/corn-snake.html",
-    "description": "Praktisk guide til Kornsnog: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Corn snake: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -652,12 +652,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Krongekko",
+    "title": "Crested gecko",
     "latin": "Correlophus ciliatus",
     "group": "Gekkoer",
     "habitat": "Tropiske habitater",
-    "difficulty": "Begynder+",
-    "activity": "Nataktiv",
+    "difficulty": "Beginner+",
+    "activity": "Nocturnal",
     "keywords": [
       "art",
       "reptil",
@@ -672,7 +672,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/crested-gecko.html",
-    "description": "Praktisk guide til Krongekko: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Crested gecko: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -702,12 +702,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Gargoyle gekko",
+    "title": "Gargoyle gecko",
     "latin": "Rhacodactylus auriculatus",
     "group": "Gekkoer",
     "habitat": "Tropiske habitater",
-    "difficulty": "Begynder+",
-    "activity": "Nataktiv",
+    "difficulty": "Beginner+",
+    "activity": "Nocturnal",
     "keywords": [
       "art",
       "reptil",
@@ -722,7 +722,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/gargoyle-gecko.html",
-    "description": "Praktisk guide til Gargoyle gekko: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Gargoyle gecko: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -756,7 +756,7 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Thamnophis spp.",
     "group": "Snoge",
     "habitat": "Slanger",
-    "difficulty": "Begynder+",
+    "difficulty": "Beginner+",
     "activity": "Dag-/skumringsaktiv",
     "keywords": [
       "art",
@@ -802,12 +802,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Græsk landskildpadde",
+    "title": "Greek tortoise",
     "latin": "Testudo hermanni / Testudo graeca complex",
     "group": "Landskildpadder",
-    "habitat": "Skov, middelhav og jordlevende arter",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Forest, Mediterranean and terrestrial species",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -822,7 +822,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/greek-tortoise.html",
-    "description": "Praktisk guide til Græsk landskildpadde: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Greek tortoise: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -852,12 +852,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Grøn leguan",
+    "title": "Green iguana",
     "latin": "Iguana iguana",
     "group": "Leguaner",
     "habitat": "Tropiske habitater",
-    "difficulty": "Meget erfaren",
-    "activity": "Dagaktiv",
+    "difficulty": "Very experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -872,7 +872,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/green-iguana.html",
-    "description": "Praktisk guide til Grøn leguan: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Green iguana: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -906,8 +906,8 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Morelia viridis",
     "group": "Pythoner",
     "habitat": "Slanger",
-    "difficulty": "Meget erfaren",
-    "activity": "Nataktiv/arboreal",
+    "difficulty": "Very experienced",
+    "activity": "Nocturnal/arboreal",
     "keywords": [
       "art",
       "reptil",
@@ -952,11 +952,11 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Hognose-snog",
+    "title": "Hognose snake",
     "latin": "Heterodon nasicus",
     "group": "Snoge",
     "habitat": "Slanger",
-    "difficulty": "Begynder+",
+    "difficulty": "Beginner+",
     "activity": "Dag-/skumringsaktiv",
     "keywords": [
       "art",
@@ -972,7 +972,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/hognose-snake.html",
-    "description": "Praktisk guide til Hognose-snog: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Hognose snake: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1006,8 +1006,8 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Trioceros jacksonii",
     "group": "Kamæleoner",
     "habitat": "Tropiske habitater",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1052,11 +1052,11 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Kenyansk sandboa",
+    "title": "Kenyan sand boa",
     "latin": "Gongylophis colubrinus",
     "group": "Boaer",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Begynder+",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Beginner+",
     "activity": "Gravende/nataktiv",
     "keywords": [
       "art",
@@ -1072,7 +1072,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/kenyan-sand-boa.html",
-    "description": "Praktisk guide til Kenyansk sandboa: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Kenyan sand boa: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1082,7 +1082,7 @@ window.AJS_SEARCH_INDEX = [
     "group": "Boas",
     "habitat": "Desert and arid habitats",
     "difficulty": "Beginner+",
-    "activity": "Burrowing/nocturnal",
+    "activity": "Enclosurerowing/nocturnal",
     "keywords": [
       "species",
       "reptile",
@@ -1102,12 +1102,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Leopardgekko",
+    "title": "Leopard gecko",
     "latin": "Eublepharis macularius",
     "group": "Gekkoer",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Begynder",
-    "activity": "Nataktiv/skumringsaktiv",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Beginner",
+    "activity": "Nocturnal/skumringsaktiv",
     "keywords": [
       "art",
       "reptil",
@@ -1122,7 +1122,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/leopard-gecko.html",
-    "description": "Praktisk guide til Leopardgekko: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Leopard gecko: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1152,12 +1152,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Leopard landskildpadde",
+    "title": "Leopard tortoise",
     "latin": "Stigmochelys pardalis",
     "group": "Landskildpadder",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1172,7 +1172,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/leopard-tortoise.html",
-    "description": "Praktisk guide til Leopard landskildpadde: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Leopard tortoise: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1206,8 +1206,8 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Phelsuma grandis",
     "group": "Gekkoer",
     "habitat": "Tropiske habitater",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1252,12 +1252,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Mælkesnog",
+    "title": "Milk snake",
     "latin": "Lampropeltis triangulum",
     "group": "Snoge",
     "habitat": "Slanger",
-    "difficulty": "Begynder+",
-    "activity": "Skumringsaktiv",
+    "difficulty": "Beginner+",
+    "activity": "Crepuscular",
     "keywords": [
       "art",
       "reptil",
@@ -1272,7 +1272,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/milk-snake.html",
-    "description": "Praktisk guide til Mælkesnog: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Milk snake: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1306,8 +1306,8 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Lepidodactylus lugubris",
     "group": "Gekkoer",
     "habitat": "Tropiske habitater",
-    "difficulty": "Begynder+",
-    "activity": "Nataktiv",
+    "difficulty": "Beginner+",
+    "activity": "Nocturnal",
     "keywords": [
       "art",
       "reptil",
@@ -1352,11 +1352,11 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Moskus skildpadde",
+    "title": "Common musk turtle",
     "latin": "Sternotherus odoratus",
-    "group": "Vandskildpadder",
+    "group": "Waterskildpadder",
     "habitat": "Akvatisk / semi-akvatisk",
-    "difficulty": "Begynder+",
+    "difficulty": "Beginner+",
     "activity": "Akvatisk/skumringsaktiv",
     "keywords": [
       "art",
@@ -1372,7 +1372,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/musk-turtle.html",
-    "description": "Praktisk guide til Moskus skildpadde: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Common musk turtle: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1402,12 +1402,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Pantherkamæleon",
+    "title": "Panther chameleon",
     "latin": "Furcifer pardalis",
     "group": "Kamæleoner",
     "habitat": "Tropiske habitater",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1422,7 +1422,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/panther-chameleon.html",
-    "description": "Praktisk guide til Pantherkamæleon: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Panther chameleon: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1452,12 +1452,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Rødøret terrapin",
+    "title": "Red-eared slider",
     "latin": "Trachemys scripta elegans",
-    "group": "Vandskildpadder",
+    "group": "Waterskildpadder",
     "habitat": "Akvatisk / semi-akvatisk",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv/akvatisk",
+    "difficulty": "Experienced",
+    "activity": "Diurnal/akvatisk",
     "keywords": [
       "art",
       "reptil",
@@ -1472,7 +1472,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/red-eared-slider.html",
-    "description": "Praktisk guide til Rødøret terrapin: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Red-eared slider: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1506,7 +1506,7 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Lichanura trivirgata",
     "group": "Boaer",
     "habitat": "Slanger",
-    "difficulty": "Begynder+",
+    "difficulty": "Beginner+",
     "activity": "Nat-/skumringsaktiv",
     "keywords": [
       "art",
@@ -1552,12 +1552,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Russisk landskildpadde",
+    "title": "Russian tortoise",
     "latin": "Testudo horsfieldii",
     "group": "Landskildpadder",
-    "habitat": "Skov, middelhav og jordlevende arter",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Forest, Mediterranean and terrestrial species",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1572,7 +1572,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/russian-tortoise.html",
-    "description": "Praktisk guide til Russisk landskildpadde: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Russian tortoise: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1605,9 +1605,9 @@ window.AJS_SEARCH_INDEX = [
     "title": "Savannah varan",
     "latin": "Varanus exanthematicus",
     "group": "Skinker og store øgler",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Meget erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Very experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1655,9 +1655,9 @@ window.AJS_SEARCH_INDEX = [
     "title": "Sulcata landskildpadde",
     "latin": "Centrochelys sulcata",
     "group": "Landskildpadder",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Meget erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Very experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1706,8 +1706,8 @@ window.AJS_SEARCH_INDEX = [
     "latin": "Gekko gecko",
     "group": "Gekkoer",
     "habitat": "Tropiske habitater",
-    "difficulty": "Erfaren",
-    "activity": "Nataktiv",
+    "difficulty": "Experienced",
+    "activity": "Nocturnal",
     "keywords": [
       "art",
       "reptil",
@@ -1755,9 +1755,9 @@ window.AJS_SEARCH_INDEX = [
     "title": "Uromastyx",
     "latin": "Uromastyx spp.",
     "group": "Agamer",
-    "habitat": "Ørken og tørre habitater",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "habitat": "Desert and arid habitats",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1802,12 +1802,12 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "species",
-    "title": "Yemenkamæleon",
+    "title": "Veiled chameleon",
     "latin": "Chamaeleo calyptratus",
     "group": "Kamæleoner",
     "habitat": "Tropiske habitater",
-    "difficulty": "Erfaren",
-    "activity": "Dagaktiv",
+    "difficulty": "Experienced",
+    "activity": "Diurnal",
     "keywords": [
       "art",
       "reptil",
@@ -1822,7 +1822,7 @@ window.AJS_SEARCH_INDEX = [
       "terrarie"
     ],
     "url": "/species/veiled-chameleon.html",
-    "description": "Praktisk guide til Yemenkamæleon: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
+    "description": "Praktisk guide til Veiled chameleon: mindstemål, varme dag/nat, UVB, fugt, foder, vitaminer, avl og vinterdvale."
   },
   {
     "lang": "en",
@@ -1852,10 +1852,10 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "habitat",
-    "title": "Ørken og tørre habitater",
+    "title": "Desert and arid habitats",
     "latin": "",
     "group": "Habitater",
-    "habitat": "Ørken og tørre habitater",
+    "habitat": "Desert and arid habitats",
     "difficulty": "",
     "activity": "",
     "keywords": [
@@ -1888,10 +1888,10 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "habitat",
-    "title": "Skov, middelhav og jordlevende arter",
+    "title": "Forest, Mediterranean and terrestrial species",
     "latin": "",
     "group": "Habitater",
-    "habitat": "Skov, middelhav og jordlevende arter",
+    "habitat": "Forest, Mediterranean and terrestrial species",
     "difficulty": "",
     "activity": "",
     "keywords": [
@@ -1924,10 +1924,10 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "habitat",
-    "title": "Vandskildpadder og semi-akvatiske arter",
+    "title": "Waterskildpadder og semi-akvatiske arter",
     "latin": "",
     "group": "Habitater",
-    "habitat": "Vandskildpadder og semi-akvatiske arter",
+    "habitat": "Waterskildpadder og semi-akvatiske arter",
     "difficulty": "",
     "activity": "",
     "keywords": [
@@ -1942,10 +1942,10 @@ window.AJS_SEARCH_INDEX = [
   {
     "lang": "da",
     "type": "habitat",
-    "title": "Begyndervenlige arter",
+    "title": "Beginnervenlige arter",
     "latin": "",
     "group": "Habitater",
-    "habitat": "Begyndervenlige arter",
+    "habitat": "Beginnervenlige arter",
     "difficulty": "",
     "activity": "",
     "keywords": [
